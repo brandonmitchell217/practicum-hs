@@ -3,23 +3,27 @@ body {
   padding: 0;
 }
 
-.page-wrap {
-  padding: 0 1rem;
-}
-nav, footer {
-  padding: 1em;
+header, footer {
+  padding: 1rem;
 }
 
-nav ul, footer ul {
-  list-style: none;
-  display: flex;
-  gap: 0 0.85rem;
+header {
+  margin-bottom: 2rem;
 }
 
 footer {
   margin-top: 2rem;
 }
 
+header ul, footer ul {
+  list-style: none;
+  display: flex;
+  gap: 0 0.85rem;
+}
+
+.page-wrap {
+  padding: 0 1rem;
+}
 
 /* Responsive grid */
 

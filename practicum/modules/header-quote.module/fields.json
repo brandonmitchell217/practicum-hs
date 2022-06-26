@@ -1,0 +1,10 @@
+[ {
+  "id" : "1d5b8ae5-3f32-13e1-d88a-a21b88f1a563",
+  "name" : "quote_text",
+  "display_width" : null,
+  "label" : "Quote Text",
+  "required" : false,
+  "locked" : true,
+  "type" : "richtext",
+  "default" : "<p><em>\"The man who invented the hamburger was smart, but the man who invented the cheeseburger was a genius.\"</em></p>\n<p>- Matthew McConaughey</p>"
+} ]
