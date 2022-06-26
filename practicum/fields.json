@@ -1,0 +1,30 @@
+[
+  {
+        "label": "Background Color",
+        "name": "background_color",
+        "type": "color",
+        "default": {
+            "color": "#EFEFEF"
+        }
+    },
+   {
+        "label" : "Primary Font",
+        "name" : "primary_font",
+        "required" : false,
+        "locked" : false,
+        "display" : "select",
+        "choices" : [ [ "serif", "Serif" ], [ "sans-serif", "Sans-Serif" ] ],
+        "type" : "choice",
+        "default" : "sans-serif"
+    },
+    {
+        "label" : "Secondary Font",
+        "name" : "secondary_font",
+        "required" : false,
+        "locked" : false,
+        "display" : "select",
+        "choices" : [ [ "serif", "Serif" ], [ "sans-serif", "Sans-Serif" ] ],
+        "type" : "choice",
+        "default" : "serif"
+    }
+]

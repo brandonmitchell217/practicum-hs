@@ -1,0 +1,142 @@
+[ {
+  "id" : "ddfd48e9-329e-6db0-9bb6-85a4097bb92f",
+  "name" : "field_group",
+  "display_width" : null,
+  "label" : "Field group",
+  "required" : false,
+  "locked" : false,
+  "occurrence" : {
+    "min" : 6,
+    "max" : null,
+    "sorting_label_field" : null,
+    "default" : 6
+  },
+  "children" : [ {
+    "id" : "2442079e-8cb1-6aee-c6ff-21ad65076321",
+    "name" : "image_field",
+    "display_width" : null,
+    "label" : "Image",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : true,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    }
+  }, {
+    "id" : "b875148e-b326-18d8-b01b-118e1355a9be",
+    "name" : "text_field",
+    "display_width" : null,
+    "label" : "Text",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "The Original"
+  }, {
+    "id" : "afdedd91-ac57-15c8-3c88-6f59b58f6186",
+    "name" : "price",
+    "display_width" : null,
+    "label" : "Price",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "$12"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : [ {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    },
+    "text_field" : "The Original",
+    "price" : "$12"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    },
+    "text_field" : "The Original",
+    "price" : "$12"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    },
+    "text_field" : "The Original",
+    "price" : "$12"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    },
+    "text_field" : "The Original",
+    "price" : "$12"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    },
+    "text_field" : "The Original",
+    "price" : "$12"
+  }, {
+    "image_field" : {
+      "size_type" : "auto",
+      "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+      "alt" : "burger",
+      "loading" : "lazy",
+      "width" : 1415,
+      "height" : 1007,
+      "max_width" : 1415,
+      "max_height" : 1007
+    },
+    "text_field" : "The Original",
+    "price" : "$12"
+  } ]
+} ]

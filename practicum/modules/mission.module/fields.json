@@ -1,0 +1,31 @@
+[ {
+  "id" : "feeb56b8-3801-93e1-66be-f76c301cfce9",
+  "name" : "image_field",
+  "display_width" : null,
+  "label" : "Image",
+  "required" : false,
+  "locked" : false,
+  "responsive" : true,
+  "resizable" : true,
+  "show_loading" : false,
+  "type" : "image",
+  "default" : {
+    "size_type" : "auto",
+    "src" : "https://22151087.fs1.hubspotusercontent-na1.net/hubfs/22151087/Imported%20images/photo-1572802419224-296b0aeee0d9%3Fixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80.jpeg",
+    "alt" : "A burger",
+    "loading" : "lazy",
+    "width" : 1415,
+    "height" : 1007,
+    "max_width" : 1415,
+    "max_height" : 1007
+  }
+}, {
+  "id" : "4db9a106-881c-4496-03b2-65dc49f2e7cf",
+  "name" : "richtext_field",
+  "display_width" : null,
+  "label" : "Rich text",
+  "required" : false,
+  "locked" : false,
+  "type" : "richtext",
+  "default" : "<h3>What's the beef?</h3>\n<p>Something about knowing where your beef comes from &amp; how great it is.</p>"
+} ]
