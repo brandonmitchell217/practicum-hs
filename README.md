@@ -1,3 +1,3 @@
 # practicum-hs
 
-[Practicum - Burger]([https://www.google.com](http://22151087.hs-sites.com/practicum-burgers))
+<a href="http://22151087.hs-sites.com/practicum-burgers" target="_blank">Practicum - Burgers</a>
